@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Greybox.umap",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_B76B3598.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/reese/Box_B76B3598.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_CAF41838.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_064E15FF.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_47CAE51D.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_61910DC4.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_8F1BCCAB.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_9BA3BC2F.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_A94A3C91.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_AF215666.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_AF75CA47.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_BA8D8FD9.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Boolean_BCF55756.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_22F74A02.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_6D4FF341.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_73CA4B0D.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_79C0B3E1.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_7C27FB43.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_819375D4.uasset",
+				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_E3334880.uasset"
+			]
+		}
+	]
+}
