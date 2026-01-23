@@ -1,6 +1,1 @@
-2026/01/16-19:25:49.759 82a0 Log #6: 2 ops saved to Table #7 OK
-2026/01/16-19:25:49.784 82a0 Archiving C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/01/16-19:25:49.785 82a0 Table #4: 2 entries OK
-2026/01/16-19:25:49.785 82a0 Table #7: 2 entries OK
-2026/01/16-19:25:49.789 82a0 Archiving C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/16-19:25:49.797 82a0 **** Repaired leveldb C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 369 bytes. Some data may have been lost. ****
+2026/01/16-19:25:49.801 82a0 Reusing MANIFEST C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
