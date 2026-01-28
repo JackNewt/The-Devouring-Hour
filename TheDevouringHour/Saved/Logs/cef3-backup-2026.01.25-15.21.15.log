@@ -1,0 +1,146 @@
+[3592:3596:0125/094837.803:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3592:3596:0125/094837.834:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[3592:16844:0125/094837.864:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3592:3596:0125/094837.878:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3592:28844:0125/094842.231:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:28844:0125/094842.235:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:28844:0125/094842.239:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:28844:0125/094842.244:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:28844:0125/094842.777:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:28844:0125/094842.791:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25708:18516:0125/094843.290:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-73064F8E33E06B4EDF12407C0D81B0EF will be ignored
+[3592:31136:0125/094843.563:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3592:21316:0125/094846.366:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3592:3596:0125/094908.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3592:3596:0125/095720.324:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095720.325:ERROR:device_event_log_impl.cc(196)] [09:57:20.325] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/095724.185:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095729.023:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095729.724:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095729.724:ERROR:device_event_log_impl.cc(196)] [09:57:29.704] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/095729.724:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095729.724:ERROR:device_event_log_impl.cc(196)] [09:57:29.725] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/095730.358:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095731.025:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095731.358:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095731.729:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095731.729:ERROR:device_event_log_impl.cc(196)] [09:57:31.729] USB: usb_service_win.cc:705 Got duplicate add event for path: \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[3592:3596:0125/095731.729:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095731.729:ERROR:device_event_log_impl.cc(196)] [09:57:31.729] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/095732.393:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/095732.727:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100022.741:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100022.741:ERROR:device_event_log_impl.cc(196)] [10:00:22.742] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100258.662:ERROR:device_event_log_impl.cc(196)] [10:02:58.654] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100409.273:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100409.273:ERROR:device_event_log_impl.cc(196)] [10:04:09.274] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100409.612:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100412.274:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100412.971:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100412.971:ERROR:device_event_log_impl.cc(196)] [10:04:12.971] USB: usb_service_win.cc:705 Got duplicate add event for path: \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+[3592:3596:0125/100412.971:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100412.971:ERROR:device_event_log_impl.cc(196)] [10:04:12.971] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100416.116:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100416.116:ERROR:device_event_log_impl.cc(196)] [10:04:16.117] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100416.969:ERROR:device_event_log_impl.cc(196)] [10:04:16.939] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100417.553:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100417.554:ERROR:device_event_log_impl.cc(196)] [10:04:17.554] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100417.892:ERROR:device_event_log_impl.cc(196)] [10:04:17.860] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100420.257:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100420.257:ERROR:device_event_log_impl.cc(196)] [10:04:20.258] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100420.543:ERROR:device_event_log_impl.cc(196)] [10:04:20.511] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100420.858:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100420.859:ERROR:device_event_log_impl.cc(196)] [10:04:20.859] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100421.149:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100421.714:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100422.011:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100422.593:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100422.885:ERROR:device_event_log_impl.cc(196)] [10:04:22.851] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100423.167:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100423.167:ERROR:device_event_log_impl.cc(196)] [10:04:23.168] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100423.489:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100423.768:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100423.844:ERROR:device_event_log_impl.cc(196)] [10:04:23.769] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100424.145:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100424.146:ERROR:device_event_log_impl.cc(196)] [10:04:24.146] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100424.439:ERROR:device_event_log_impl.cc(196)] [10:04:24.403] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100424.738:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100424.738:ERROR:device_event_log_impl.cc(196)] [10:04:24.739] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100426.581:ERROR:device_event_log_impl.cc(196)] [10:04:26.553] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100427.151:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100427.151:ERROR:device_event_log_impl.cc(196)] [10:04:27.151] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100427.462:ERROR:device_event_log_impl.cc(196)] [10:04:27.433] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100427.769:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100427.769:ERROR:device_event_log_impl.cc(196)] [10:04:27.769] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100428.063:ERROR:device_event_log_impl.cc(196)] [10:04:28.035] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100428.368:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100428.368:ERROR:device_event_log_impl.cc(196)] [10:04:28.369] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100428.658:ERROR:device_event_log_impl.cc(196)] [10:04:28.630] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100428.986:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100428.986:ERROR:device_event_log_impl.cc(196)] [10:04:28.986] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100429.327:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 0.
+[3592:3596:0125/100429.327:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[3592:3596:0125/100429.327:ERROR:device_event_log_impl.cc(196)] [10:04:29.328] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100429.327:ERROR:device_event_log_impl.cc(196)] [10:04:29.288] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100429.680:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100429.680:ERROR:device_event_log_impl.cc(196)] [10:04:29.680] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100429.680:ERROR:device_event_log_impl.cc(196)] [10:04:29.652] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100430.943:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100430.943:ERROR:device_event_log_impl.cc(196)] [10:04:30.944] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100431.278:ERROR:device_event_log_impl.cc(196)] [10:04:31.248] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100431.592:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100431.592:ERROR:device_event_log_impl.cc(196)] [10:04:31.592] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100431.916:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100433.709:ERROR:device_event_log_impl.cc(196)] [10:04:33.700] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100433.710:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100433.710:ERROR:device_event_log_impl.cc(196)] [10:04:33.710] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100433.732:ERROR:device_event_log_impl.cc(196)] [10:04:33.711] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100435.421:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100435.422:ERROR:device_event_log_impl.cc(196)] [10:04:35.422] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100435.797:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[3592:3596:0125/100435.797:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[3592:3596:0125/100435.797:ERROR:device_event_log_impl.cc(196)] [10:04:35.797] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100435.797:ERROR:device_event_log_impl.cc(196)] [10:04:35.767] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100436.097:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100436.097:ERROR:device_event_log_impl.cc(196)] [10:04:36.097] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100436.490:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[3592:3596:0125/100436.490:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[3592:3596:0125/100436.490:ERROR:device_event_log_impl.cc(196)] [10:04:36.491] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100436.490:ERROR:device_event_log_impl.cc(196)] [10:04:36.450] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100436.792:ERROR:device_event_log_impl.cc(196)] [10:04:36.759] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100437.478:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100437.478:ERROR:device_event_log_impl.cc(196)] [10:04:37.478] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100437.702:ERROR:device_event_log_impl.cc(196)] [10:04:37.684] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100438.620:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100438.620:ERROR:device_event_log_impl.cc(196)] [10:04:38.621] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100438.914:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100439.221:ERROR:device_event_log_impl.cc(196)] [10:04:39.186] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100439.521:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100439.521:ERROR:device_event_log_impl.cc(196)] [10:04:39.521] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100439.818:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100440.153:ERROR:device_event_log_impl.cc(196)] [10:04:40.139] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100440.153:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100440.153:ERROR:device_event_log_impl.cc(196)] [10:04:40.154] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100440.168:ERROR:device_event_log_impl.cc(196)] [10:04:40.155] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100440.502:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100440.503:ERROR:device_event_log_impl.cc(196)] [10:04:40.503] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100440.799:ERROR:device_event_log_impl.cc(196)] [10:04:40.768] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100441.108:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100441.108:ERROR:device_event_log_impl.cc(196)] [10:04:41.108] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100441.423:ERROR:device_event_log_impl.cc(196)] [10:04:41.395] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/100441.735:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100441.735:ERROR:device_event_log_impl.cc(196)] [10:04:41.736] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100441.735:ERROR:device_event_log_impl.cc(196)] [10:04:41.708] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[3592:3596:0125/100442.072:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100442.072:ERROR:device_event_log_impl.cc(196)] [10:04:42.073] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/100532.525:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/100532.525:ERROR:device_event_log_impl.cc(196)] [10:05:32.524] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/101138.055:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/101138.627:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/101223.459:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/101223.459:ERROR:device_event_log_impl.cc(196)] [10:12:23.459] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/101230.531:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/101230.532:ERROR:device_event_log_impl.cc(196)] [10:12:30.531] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[3592:3596:0125/101230.838:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[3592:3596:0125/101231.390:ERROR:device_event_log_impl.cc(196)] [10:12:31.357] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[3592:3596:0125/101256.647:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
