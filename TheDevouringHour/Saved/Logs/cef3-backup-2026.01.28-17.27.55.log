@@ -1,0 +1,35 @@
+[10404:21704:0128/110550.926:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10404:17436:0128/110551.012:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10404:21704:0128/110551.063:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10404:30564:0128/110559.712:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10404:30564:0128/110559.716:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10404:30564:0128/110559.720:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10404:30564:0128/110559.724:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17984:32340:0128/110600.354:ERROR:backend_impl.cc(989)] Critical error found -8
+[17984:32340:0128/110600.362:WARNING:storage_block-inl.h(138)] Failed data load.
+[17984:32340:0128/110600.362:ERROR:entry_impl.cc(1029)] No file for b202001c
+[17984:32340:0128/110600.364:WARNING:storage_block-inl.h(138)] Failed data load.
+[10404:14012:0128/110600.366:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10404:14012:0128/110600.373:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17984:24292:0128/110600.456:WARNING:cache_util.cc(144)] Unable to delete cache folder.
+[10404:31048:0128/110601.983:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23408:30308:0128/110607.127:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EADB7644C76AAFB8256F423260A99F3C will be ignored
+[10404:18964:0128/110611.655:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[10404:21704:0128/110613.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10404:21704:0128/110613.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10404:21704:0128/110613.640:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10404:21704:0128/110613.640:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10404:18964:0128/110613.644:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10724:9816:0128/110825.703:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10404:21704:0128/113505.602:ERROR:device_event_log_impl.cc(196)] [11:35:05.581] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[10404:21704:0128/113505.950:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[10404:21704:0128/113505.950:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[10404:21704:0128/113505.951:ERROR:device_event_log_impl.cc(196)] [11:35:05.951] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[10404:21704:0128/113505.951:ERROR:device_event_log_impl.cc(196)] [11:35:05.924] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[10404:21704:0128/113506.292:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[10404:21704:0128/113506.292:ERROR:device_event_log_impl.cc(196)] [11:35:06.292] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[10404:21704:0128/113506.292:ERROR:device_event_log_impl.cc(196)] [11:35:06.277] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[10404:21704:0128/113506.866:ERROR:device_event_log_impl.cc(196)] [11:35:06.555] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+[10404:21704:0128/113507.743:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[10404:21704:0128/113507.744:ERROR:device_event_log_impl.cc(196)] [11:35:07.744] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[10404:21704:0128/113551.877:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
