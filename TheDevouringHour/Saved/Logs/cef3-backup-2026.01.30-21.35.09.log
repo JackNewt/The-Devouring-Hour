@@ -1,0 +1,19 @@
+[17868:6940:0130/160332.531:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17868:21012:0130/160332.602:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17868:6940:0130/160332.642:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17868:7788:0130/160336.893:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:7788:0130/160336.897:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:7788:0130/160336.902:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:7788:0130/160336.906:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:21012:0130/160337.414:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:21012:0130/160337.416:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12032:12116:0130/160337.589:ERROR:backend_impl.cc(989)] Critical error found -8
+[12032:12116:0130/160337.589:WARNING:storage_block-inl.h(138)] Failed data load.
+[12032:12116:0130/160337.589:ERROR:entry_impl.cc(1029)] No file for b2020014
+[12032:12116:0130/160337.591:WARNING:storage_block-inl.h(138)] Failed data load.
+[5144:29356:0130/160337.979:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E0876A96A43415BEB201B473644DD954 will be ignored
+[17868:29380:0130/160338.110:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17868:17760:0130/160339.760:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17868:17760:0130/163332.649:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17868:17760:0130/163414.905:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17868:6940:0130/163509.893:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
