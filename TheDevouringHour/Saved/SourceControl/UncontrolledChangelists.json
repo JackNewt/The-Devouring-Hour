@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/UI/WBP_InteractPrompt.uasset",
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_ReadableNote.uasset",
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_InteractableBase.uasset",
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/VA/YJOYZ2ZOFWPF9XZTJ08DQ3.uasset",
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BPI_Interactable.uasset",
+				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Greybox.umap",
 				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_B76B3598.uasset",
 				"C:/Users/reese/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/_GENERATED/Meshes/Box_CAF41838.uasset",
