@@ -1,5 +1,6 @@
-2026/02/04-11:23:50.482 47d0 Log #3: 2 ops saved to Table #4 OK
-2026/02/04-11:23:50.497 47d0 Archiving C:\Users\hahawhee\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log: OK
-2026/02/04-11:23:50.497 47d0 Table #4: 2 entries OK
-2026/02/04-11:23:50.498 47d0 Archiving C:\Users\hahawhee\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/04-11:23:50.520 47d0 **** Repaired leveldb C:\Users\hahawhee\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/02/11-17:07:41.759 7af8 Log #6: 1 ops saved to Table #7 OK
+2026/02/11-17:07:41.762 7af8 Archiving C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/000006.log: OK
+2026/02/11-17:07:41.773 7af8 Table #4: 2 entries OK
+2026/02/11-17:07:41.773 7af8 Table #7: 1 entries OK
+2026/02/11-17:07:41.787 7af8 Archiving C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/11-17:07:41.811 7af8 **** Repaired leveldb C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****

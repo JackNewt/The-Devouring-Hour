@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/olivi/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Blueprints/Inventory/S_InventoryItem.uasset",
+				"C:/Users/olivi/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Blueprints/Inventory/WBP_InventoryClipboard.uasset",
+				"C:/Users/olivi/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Blueprints/Inventory/BP_InventoryComponent.uasset",
+				"C:/Users/olivi/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/UI/WBP_InteractPrompt.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_ReadableNote.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_InteractableBase.uasset",
