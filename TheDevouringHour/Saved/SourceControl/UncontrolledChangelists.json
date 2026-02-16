@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_MainMenu.uasset",
+				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_SettingsMenu.uasset",
+				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_SaveMenu.uasset",
+				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_InGameMenu.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/UI/WBP_InteractPrompt.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_ReadableNote.uasset",
 				"C:/Users/hahawhee/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_InteractableBase.uasset",
