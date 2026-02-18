@@ -1,2 +1,3 @@
-2026/02/18-14:14:07.133 3e1c Creating DB C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/02/18-14:14:07.155 3e1c Reusing MANIFEST C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/18-14:33:42.280 7438 Reusing MANIFEST C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/18-14:33:42.283 7438 Recovering log #3
+2026/02/18-14:33:42.285 7438 Reusing old log C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 

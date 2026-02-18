@@ -1,6 +1,1 @@
-2026/02/18-14:14:07.146 3f2c Log #6: 1 ops saved to Table #7 OK
-2026/02/18-14:14:07.147 3f2c Archiving C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/000006.log: OK
-2026/02/18-14:14:07.148 3f2c Table #4: 2 entries OK
-2026/02/18-14:14:07.148 3f2c Table #7: 1 entries OK
-2026/02/18-14:14:07.150 3f2c Archiving C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/18-14:14:07.158 3f2c **** Repaired leveldb C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
+2026/02/18-14:14:07.166 3f2c Reusing MANIFEST C:\Users\james\Downloads\THEDEVOURINGHOUR\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
