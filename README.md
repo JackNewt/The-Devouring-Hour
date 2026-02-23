@@ -2,7 +2,7 @@
 Short Horror Game Project centered around looping hour system with in between tasks.
 
 
-## - 2026-16-20
+## - 2026-02-16
 ### Added
 - Inventory system with scrollwheel compatability
 - Data Asset template for making inventory items
