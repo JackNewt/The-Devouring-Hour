@@ -4973,3 +4973,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-23.11.06:793][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.23-23.11.06:793][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12617.522461, Update Interval: 321.030304
 [2026.02.23-23.12.08:071][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KeyPad/BP_KeyPad.BP_KeyPad
+[2026.02.23-23.17.24:618][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12995.642578
+[2026.02.23-23.17.25:618][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-23.17.25:619][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12996.309570, Update Interval: 355.570557
+[2026.02.23-23.17.35:014][206]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.23-23.18.17:689][605]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.23-23.18.17:695][605]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.23-23.18.27:715][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter

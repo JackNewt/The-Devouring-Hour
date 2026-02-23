@@ -2,6 +2,20 @@
 Short Horror Game Project centered around looping hour system with in between tasks.
 
 
+## - 2026-02-23
+### Added
+- Temporary key pad model
+- Key pad blueprint that
+    - Toggles camera view from first person to focus on the key pad upon interacting with the blueprint
+    - Tracks clicks on buttons 1-9 and submit button
+    - Has a submit button that prints the string of numbers the user input
+- New line trace channel "InteractionTrace" that handles interaction checks
+
+### Changed
+- Tweaked interaction in FirstPersonCharacter to line trace by new trace channel "InteractionTrace" rather than "Visibility"
+- Updated BP_InteractableBase to handle collision with new InteractionTrace channel
+
+
 ## - 2026-02-16
 ### Added
 - Inventory system with scrollwheel compatability
