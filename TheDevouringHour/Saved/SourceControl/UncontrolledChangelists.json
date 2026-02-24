@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/LevelPrototyping/Interactable/Dispenser/BP_Dispenser.uasset",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/GT/8AVRUQ24KBAN5E7FBXKGQV.uasset",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/GreyBox/Interactables/BP_InteractableBase.uasset",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/LevelPrototyping/Interactable/Pill/BP_Pill.uasset",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_InGameMenu.uasset",
+				"C:/Users/camoe/Documents/GitHub/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_MainMenu.uasset",
 				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_MainMenu.uasset",
 				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/FirstPerson/Lvl_FirstPerson.umap",
 				"C:/Users/ccmoe/OneDrive/Documents/The-Devouring-Hour/TheDevouringHour/Content/UI/BP_SettingsMenu.uasset",
