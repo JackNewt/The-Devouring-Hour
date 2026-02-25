@@ -1,12 +1,20 @@
-[45568:40300:0223/144048.360:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[45568:47276:0223/144048.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[45568:40300:0223/144048.414:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[35316:54240:0223/144051.436:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0AB769853FC6A7AD8CE712FAE36BD962 will be ignored
-[38412:41432:0223/163923.767:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/163924.521:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/163941.774:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/163950.435:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/175922.662:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/175922.696:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[38412:41432:0223/175937.118:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[38412:41432:0223/175948.212:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[37132:41328:0224/182744.204:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37132:46672:0224/182744.440:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[37132:41328:0224/182744.544:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[53340:37948:0224/182758.254:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5FC827118585388B4FB4AD069B164B15 will be ignored
+[37132:41328:0224/182758.988:ERROR:device_event_log_impl.cc(196)] [18:27:58.956] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[37132:41328:0224/182810.999:ERROR:device_event_log_impl.cc(196)] [18:28:10.804] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[49996:38972:0224/202322.826:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[49996:38972:0224/202322.837:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[49996:38972:0224/202322.844:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[37132:53452:0224/202322.845:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[49996:38972:0224/202323.113:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[37132:53452:0224/202323.120:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[49996:46872:0224/202323.139:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[37132:53452:0224/202323.175:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[49996:38972:0224/202323.177:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[37132:41328:0224/202327.269:ERROR:device_event_log_impl.cc(196)] [20:23:27.231] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[37132:41328:0224/202327.269:ERROR:device_event_log_impl.cc(196)] [20:23:27.251] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[37132:41328:0224/202327.602:ERROR:device_event_log_impl.cc(196)] [20:23:27.277] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[37132:41328:0224/202327.602:ERROR:device_event_log_impl.cc(196)] [20:23:27.307] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[37132:41328:0224/202334.596:ERROR:device_event_log_impl.cc(196)] [20:23:34.566] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
