@@ -2,6 +2,21 @@
 Short Horror Game Project centered around looping hour system with in between tasks.
 
 
+## - 2026-02-24
+### Added
+- New BPI that adds dynamic functionality for using the enter key on different focus-interactable objects
+- Added ValidCodes string -> string map that contains valid codes (keys) that correspond to pills (values)
+    - Ex. 1234 -> Pill 1
+- Added enter key event in BP_FirstPersonCharacter
+- Added documentation
+
+### Changed
+- SubmitInput now prints whether or not the input code corresponds to a pill
+- Put movement and cursor toggling in it's own function "ToggleMovementAndCursor"
+
+### Removed
+- Removed submit button box collision and on click event
+
 ## - 2026-02-23
 ### Added
 - Temporary key pad model
