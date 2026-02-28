@@ -1,16 +1,21 @@
-[42812:45020:0223/002123.595:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[42812:45020:0223/002123.640:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[42812:36508:0223/002123.674:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[42812:45020:0223/002123.720:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11696:10888:0223/002128.500:ERROR:backend_impl.cc(989)] Critical error found -8
-[11696:10888:0223/002128.537:WARNING:storage_block-inl.h(138)] Failed data load.
-[4832:39756:0223/002128.746:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-47F031BD47C178B894C27EEA9481AF79 will be ignored
-[42812:42764:0223/002129.251:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[42812:45020:0223/002129.431:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42812:45020:0223/002129.431:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42812:45020:0223/002129.431:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42812:45020:0223/002129.431:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42812:42764:0223/002129.439:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[42812:42764:0223/002131.466:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9484:28820:0223/002336.771:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[42812:45020:0223/002904.716:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[35620:7624:0224/205209.724:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35620:7624:0224/205209.902:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[35620:9472:0224/205210.069:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[35620:7624:0224/205210.227:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35620:8668:0224/205216.123:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:8668:0224/205216.128:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:8668:0224/205216.131:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:8668:0224/205216.133:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:7540:0224/205217.559:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olivi\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:9472:0224/205217.641:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:9472:0224/205217.643:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001
+: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35620:7624:0224/205217.703:ERROR:device_event_log_impl.cc(196)] [20:52:17.645] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13892:35768:0224/205218.024:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-771E0886A27F5C7285BEE3A332C65BCE will be ignored
+[35620:7624:0225/000236.828:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
