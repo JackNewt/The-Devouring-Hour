@@ -1,6 +1,19 @@
 # The-Devouring-Hour
 Short Horror Game Project centered around looping hour system with in between tasks.
 
+## - 2026-03-03
+### Added
+- New custom event in BP_KeyPad that, given a value (pill name), will generate a random 3 digit code and then change that value's current code to be the new random one
+    - Added debug event on keyboard input "3" to test this functionality while the key pad is in focus
+- Added new event tick handler in BP_KeyPad
+
+### Changed
+- Altered SubmitInput to be called whenever CurrentInput for the key pad reaches 3 digits
+
+### Removed
+- Removed functionality for the enter key calling SubmitInput
+- Removed BPI_FocusInteractable (old SubmitInput calling system)
+
 
 ## - 2026-02-24
 ### Added
@@ -16,6 +29,7 @@ Short Horror Game Project centered around looping hour system with in between ta
 
 ### Removed
 - Removed submit button box collision and on click event
+
 
 ## - 2026-02-23
 ### Added
