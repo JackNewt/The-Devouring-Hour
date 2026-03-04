@@ -1,20 +1,15 @@
-[23404:10408:0304/112010.661:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23404:10408:0304/112010.692:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[23404:32824:0304/112010.722:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23404:10408:0304/112010.757:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[34976:36432:0304/112014.886:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[34976:36432:0304/112014.886:ERROR:backend_impl.cc(989)] Critical error found -8
-[34976:36432:0304/112014.943:WARNING:storage_block-inl.h(138)] Failed data load.
-[34976:36432:0304/112014.943:WARNING:storage_block-inl.h(138)] Failed data load.
-[34976:36432:0304/112014.944:ERROR:entry_impl.cc(955)] Failed to save user data
-[35108:34660:0304/112015.116:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3A689A93A77625273CB61CC9CCC53CEB will be ignored
-[23404:10408:0304/112040.464:ERROR:device_event_log_impl.cc(196)] [11:20:32.837] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
-[23404:10408:0304/112040.464:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112040.464:ERROR:device_event_log_impl.cc(196)] [11:20:40.463] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[23404:10408:0304/112229.580:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112229.580:ERROR:device_event_log_impl.cc(196)] [11:22:29.579] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_5986&pid_212b#6&d303077&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[23404:10408:0304/112229.861:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112230.175:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112230.466:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112230.756:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[23404:10408:0304/112257.702:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[10440:27516:0304/160540.441:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10440:22228:0304/160540.510:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10440:27516:0304/160540.524:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10440:10436:0304/160543.194:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10440:10436:0304/160543.199:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10440:10436:0304/160543.202:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10440:10436:0304/160543.205:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13652:23808:0304/160543.752:ERROR:backend_impl.cc(989)] Critical error found -8
+[13652:23808:0304/160543.753:ERROR:entry_impl.cc(1029)] No file for b2020014
+[13652:23808:0304/160543.753:WARNING:storage_block-inl.h(138)] Failed data load.
+[10440:20448:0304/160543.772:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10440:20448:0304/160543.797:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25376:28276:0304/160544.078:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A2D464A9ECDCB9E32F21EFD87BF0ECB8 will be ignored
+[10440:16428:0304/160547.445:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10440:27516:0304/171949.516:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
