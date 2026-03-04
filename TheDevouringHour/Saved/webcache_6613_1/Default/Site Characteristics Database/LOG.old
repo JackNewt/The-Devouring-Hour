@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 2026/02/24-11:22:42.456 10a8 Log #6: 1 ops saved to Table #7 OK
 2026/02/24-11:22:42.459 10a8 Archiving C:\Users\camoe\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/000006.log: OK
 2026/02/24-11:22:42.460 10a8 Table #4: 2 entries OK
 2026/02/24-11:22:42.460 10a8 Table #7: 1 entries OK
 2026/02/24-11:22:42.466 10a8 Archiving C:\Users\camoe\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
 2026/02/24-11:22:42.501 10a8 **** Repaired leveldb C:\Users\camoe\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
+=======
+2026/02/23-00:21:23.754 3518 Reusing MANIFEST C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/02/23-00:21:23.767 3518 Recovering log #9
+2026/02/23-00:21:23.767 3518 Reusing old log C:\Users\reese\Documents\GitHub\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log 
+>>>>>>> main
