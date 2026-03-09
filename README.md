@@ -66,6 +66,11 @@ Interactable actor placed in the world that starts dialog.
 5. Ends when reaching a dialog with no next index
 
 # Jared Change Log
+## - 2026-03-09
+### Changed
+- Fixed BP_InteractableBase, BP_PickupableBase, BP_DialogTrigger
+    - Added cube back into viewport and resolved collision trace channel issues
+
 ## - 2026-02-24
 ### Added
 - New BPI that adds dynamic functionality for using the enter key on different focus-interactable objects
