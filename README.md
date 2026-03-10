@@ -66,10 +66,21 @@ Interactable actor placed in the world that starts dialog.
 5. Ends when reaching a dialog with no next index
 
 # Jared Change Log
+## - 2026-03-10
+### Added
+- Added new struct for pill PillData for potential future use
+    - Includes PillName, StatusEffect, and DegradationEffect
+
+### Changed
+- Made String:String map (ValidCodes) in BP_KeyPad a String:PillData type
+    - Changed SubmitInput function and CreateRandomInput event to work with new map type
+    
+
 ## - 2026-03-09
 ### Changed
 - Fixed BP_InteractableBase, BP_PickupableBase, BP_DialogTrigger
     - Added cube back into viewport and resolved collision trace channel issues
+
 
 ## - 2026-02-24
 ### Added
