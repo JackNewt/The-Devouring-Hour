@@ -70,10 +70,14 @@ Interactable actor placed in the world that starts dialog.
 ### Added
 - Added new struct for pill PillData for potential future use
     - Includes PillName, StatusEffect, and DegradationEffect
+- Added instance editable variables in BP_Keypad and BP_Dispenser to connect them
+- Added new custom event "DispensePill" in BP_Dispenser
 
 ### Changed
 - Made String:String map (ValidCodes) in BP_KeyPad a String:PillData type
     - Changed SubmitInput function and CreateRandomInput event to work with new map type
+- Tweaked OnInteract in BP_Dispenser to call DispensePill custom event instead
+- Changed SubmitInput function in BP_Keypad to call DispensePill on the connected BP_Dispenser
     
 
 ## - 2026-03-09
