@@ -1,9 +1,2 @@
-2026/03/04-16:05:18.684 3f7c Reusing MANIFEST C:\Users\camoe\Documents\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/04-16:05:18.688 17c8 Compacting 4@0 + 0@1 files
-2026/03/04-16:05:18.709 17c8 Generated table #14@0: 2 keys, 191 bytes
-2026/03/04-16:05:18.710 17c8 Compacted 4@0 + 0@1 files => 191 bytes
-2026/03/04-16:05:18.712 17c8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/04-16:05:18.712 17c8 Delete type=2 #4
-2026/03/04-16:05:18.712 17c8 Delete type=2 #7
-2026/03/04-16:05:18.712 17c8 Delete type=2 #10
-2026/03/04-16:05:18.712 17c8 Delete type=2 #11
+2026/03/28-17:17:06.807 1540 Creating DB C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database since it was missing.
+2026/03/28-17:17:06.818 1540 Reusing MANIFEST C:\Users\harvw\UnrealProjects\The-Devouring-Hour\TheDevouringHour\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
